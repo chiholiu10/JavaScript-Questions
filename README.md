@@ -17,4 +17,21 @@ A promise is an object that shows the completion of an asynchronous operation an
 
 # What are the main differences between callback, promise and async
 
+# What is Function hoisting 
+<img width="1352" alt="Screenshot 2021-12-26 at 00 50 46" src="https://user-images.githubusercontent.com/16224390/148285657-78c86749-d082-46c8-baf6-44f4d6d943b6.png">
+
+When a callback is already called before declaring it. 
+
+# What is var hoisting 
+
+You always need to declare variable and assign value in order to return value, else it shows undefined. 
+<img width="1051" alt="Screenshot 2022-01-05 at 21 43 10" src="https://user-images.githubusercontent.com/16224390/148287008-2c1d68d3-8f1f-4b3a-babe-dcbb8cbe804b.png">
+
+if there is an initialization and no declaration 
+<img width="1177" alt="Screenshot 2022-01-05 at 21 43 20" src="https://user-images.githubusercontent.com/16224390/148287041-d85af8ee-afa6-405a-8cde-56de12a37cdb.png">
+
+# What is const/let hoisting 
+
+<img width="1167" alt="Screenshot 2022-01-05 at 21 47 20" src="https://user-images.githubusercontent.com/16224390/148287091-84fad32e-a9de-4b04-aeec-0f4d521fc96b.png">
+
 Anyone feel free to improve or add JavaScript questions/answers. 
