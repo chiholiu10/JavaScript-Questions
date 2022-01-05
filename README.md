@@ -18,7 +18,8 @@ A promise is an object that shows the completion of an asynchronous operation an
 # What are the main differences between callback, promise and async
 
 # What is Function hoisting 
-<img width="1352" alt="Screenshot 2021-12-26 at 00 50 46" src="https://user-images.githubusercontent.com/16224390/148285657-78c86749-d082-46c8-baf6-44f4d6d943b6.png">
+
+<img width="983" alt="Screenshot 2022-01-05 at 21 36 23" src="https://user-images.githubusercontent.com/16224390/148287501-24b3de14-7245-4ffb-975f-bd15746c845c.png">
 
 When a callback is already called before declaring it. 
 
