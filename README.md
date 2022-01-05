@@ -35,4 +35,7 @@ if there is an initialization and no declaration
 
 <img width="1167" alt="Screenshot 2022-01-05 at 21 47 20" src="https://user-images.githubusercontent.com/16224390/148287091-84fad32e-a9de-4b04-aeec-0f4d521fc96b.png">
 
+# What is CORS and what are the solutions to solve this issue?
+CORS stands for Cross-Origin Resource Sharing which determines if front end javascript should be blocked from accessing responses for cross-origin requests. 
+
 Anyone feel free to improve or add JavaScript questions/answers. 
