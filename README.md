@@ -38,7 +38,7 @@ if there is an initialization and no declaration
 # What is CORS and what are the solutions to solve this issue?
 CORS stands for Cross-Origin Resource Sharing which determines if front end javascript should be blocked from accessing responses for cross-origin requests. 
 
-1) <img width="679" alt="Screenshot 2022-01-05 at 22 09 33" src="https://user-images.githubusercontent.com/16224390/148289969-49032cac-d205-432c-859a-7e12ec386a94.png">
+1) <img width="679" alt="Screenshot 2022-01-05 at 22 09 33" src="https://user-images.githubusercontent.com/16224390/148289969-49032cac-d205-432c-859a-7e12ec386a94.png"> Should be added in the header before sending a request. 
 
 2) If you use server side then installing Cors plugin might also be an option as well. 
 3) Use a Chrome extension that will allow you to send cross-domain request directly from browser withour getting Cross Origin Errors. 
